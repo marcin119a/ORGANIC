@@ -6,6 +6,6 @@ scipy
 pandas
 matplotlib
 seaborn
-rdkit
+rdkit-pypi
 tqdm
 pymatgen
